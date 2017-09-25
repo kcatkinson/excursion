@@ -23,3 +23,9 @@ p {
   color: Aquamarine;
   font-size: 16px;
 }
+footer {
+  text-align: right;
+}
+a:visited {
+  color: Aquamarine;
+}
